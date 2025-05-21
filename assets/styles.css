@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f7f9fc;
+}
+
+h1, h2, h3 {
+    color: #1f2937;
+}
+
+.stButton>button {
+    background-color: #2563eb;
+    color: white;
+    border-radius: 6px;
+    padding: 0.5em 1.5em;
+    border: none;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #1d4ed8;
+}
+
+.stTextInput, .stSelectbox, .stFileUploader, .stCameraInput {
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
+footer {
+    visibility: hidden;
+}

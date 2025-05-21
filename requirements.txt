@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+face-recognition
+pandas
+numpy
+Pillow
+openpyxl
+python-docx
+reportlab
+-
